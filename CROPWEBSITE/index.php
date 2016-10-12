@@ -2,21 +2,23 @@
 <div id="wrapper">
 	
 	
-	<div id="con1">
-		CONTENT BLOCK 1
+	<div id="content1">
+		<br><br><br><br>
+		<img src="files/images/mars food 01.png" width="300">
 	</div>
-	
-	<div id="con2">
-		CONTENT BLOCK 2
+
+	<div id="content2">
+
 	</div>
-	
-	<div id="con3">
-		CONTENT BLOCK 3
+
+	<div id="content3">
+
 	</div>
-	
-	<div id="con4">
-      CONTENT BLOCK 4
-    </div>
+
+	<div id="content4">
+
+	</div>
+
 
 	
 </div> <!-- Wrapper -->
