@@ -1,4 +1,8 @@
+
+
+
 <?php include("files/header.php"); ?>
+<!-- Vanaf hier begint pagina -->
 <div id="wrapper">
 	
 	

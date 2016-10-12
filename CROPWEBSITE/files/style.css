@@ -8,6 +8,7 @@
 	height: 100vh;
 	background-image: url("images/header2.png");
 	background-size: cover;
+	border-bottom: groove crimson 10px;
 }
 
 #nav{
@@ -43,6 +44,9 @@
 	background-color: maroon;
 	padding: 30px;
 	height: 100vh;
+	border-top: #a2ad30 ridge 10px;
+	border-bottom: ridge cyan 10px;
+
 }
 
 #content2{
@@ -50,6 +54,8 @@
 	background-color: aqua;
 	padding: 30px;
 	height: 100vh;
+	border-bottom: ridge crimson 10px;
+	border-top: groove crimson 10px ;
 }
 
 #content3{
