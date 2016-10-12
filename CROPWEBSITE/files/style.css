@@ -1,0 +1,44 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#header{
+	font: 20px Tahoma;
+	text-align: center;
+	background-color: red;
+}
+
+#wrapper{
+	width: 900px;
+	margin: 0px auto;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+#con1{
+	font: 14px Tahoma;
+	background-color: green;
+}
+
+#con2{
+	font: 14px Tahoma;
+	background-color: cyan;
+}
+
+#con3{
+	font: 14px Tahoma;
+	background-color: purple;
+}
+
+#con4{
+	font: 14px Tahoma;
+	background-color: yellow;
+}
+
+#footer{
+	font: 20px Tahoma;
+	text-align: center;
+	background-color: blue;
+	height: 50px;
+}
