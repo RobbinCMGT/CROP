@@ -15,8 +15,8 @@
 	</div>
 	
 	<div id="con4">
-
-
+      CONTENT BLOCK 4
+    </div>
 
 	
 </div> <!-- Wrapper -->
