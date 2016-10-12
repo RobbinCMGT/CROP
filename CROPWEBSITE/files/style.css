@@ -10,13 +10,16 @@
 }
 
 #wrapper{
-	width: 900px;
-	margin: 0 auto;
+	min-height:  100%;
+	height: 100%;
+	margin: 0 auto -155px;
 	margin-top: 60px;
 	margin-bottom: 60px;
-	background-color: orangered;
 }
-
+#About us{
+	font: 14px Tahoma;
+	background-color: transparent;
+}
 #con1{
 	font: 14px Tahoma;
 	background-color: maroon ;
@@ -38,8 +41,5 @@
 }
 
 #footer{
-	font: 20px Tahoma;
 	text-align: center;
-	background-color: blue;
-	height: 50px;
 }

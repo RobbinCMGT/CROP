@@ -6,9 +6,9 @@
 	</head>
 	
 	<body>
-	
+	<p> </p>
+	</body>
 	<div id="header">
-		<img src="files/images/Logo.png" width="300px">
 	</div>
 	
 	
