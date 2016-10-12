@@ -1,6 +1,7 @@
-	<div id="footer">
-		&copy; 2016 CROP COMPANY
-	</div>
 
-</body>
-</html>
+
+<div id="footer">
+
+	<img src="images/Logo.png">
+
+</div>
