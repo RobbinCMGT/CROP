@@ -12,7 +12,7 @@
 	</div>
 
 	<div id="content2">
-
+    Hoi
 	</div>
 
 	<div id="content3">
