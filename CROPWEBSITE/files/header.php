@@ -33,11 +33,11 @@
 		<div id="nav">
 			<div id="navText">
 				<ul>
-                    <li> <a href="#header">Intro</a></li>
-					<li><a href="#content1">The product</a></li>
-					<li><a href="#content2">How it works</a></li>
-					<li><a href="#content3">Why</a></li>
-					<li><a href="#content4">About us</a></li>
+                    <li> <a href="#header" class="myButton">Intro</a></li>
+					<li><a href="#content1" class="myButton">The product</a></li>
+					<li><a href="#content2" class="myButton">How it works</a></li>
+					<li><a href="#content3" class="myButton">Why</a></li>
+					<li><a href="#content4" class="myButton">About us</a></li>
 				</ul>
 			</div>
 		</div>
