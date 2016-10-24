@@ -12,8 +12,7 @@
 }
 
 #nav{
-	background-color: sandybrown;
-    border-bottom: darkred groove 10px;
+	background-color: rgba(0,0,0,0.29);
 	width: 100%;
 	position: fixed;
 	height: 60px;
@@ -53,6 +52,23 @@
 	border-bottom: #bf5b1b ridge 10px;
 
 }
+#content1 table {
+	width: 90%;
+	margin-left: auto ;
+	margin-right: auto;
+
+}
+#content1 td.Producttd1 {
+width: 39%;
+ }
+#content1 td.Producttd2 {
+width: 61%;
+}
+
+#productText{
+	width: 50%;
+}
+
 
 #content2{
 	font: 14px Tahoma;
