@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CROPWEBSITE/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="351">
+              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -39,18 +39,18 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CROPWEBSITE/files/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
+            <state relative-caret-position="266">
               <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CROPWEBSITE/files/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="136" column="44" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
+            <state relative-caret-position="413">
+              <caret line="91" column="23" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -94,8 +94,8 @@
         <option value="$PROJECT_DIR$/CROP SITE/index.html" />
         <option value="$PROJECT_DIR$/CROPWEBSITE/files/footer.php" />
         <option value="$PROJECT_DIR$/CROPWEBSITE/files/header.php" />
-        <option value="$PROJECT_DIR$/CROPWEBSITE/files/style.css" />
         <option value="$PROJECT_DIR$/CROPWEBSITE/index.php" />
+        <option value="$PROJECT_DIR$/CROPWEBSITE/files/style.css" />
       </list>
     </option>
   </component>
@@ -396,7 +396,7 @@
       <workItem from="1476260386644" duration="5807000" />
       <workItem from="1476268906133" duration="8345000" />
       <workItem from="1476278008307" duration="2329000" />
-      <workItem from="1477293641339" duration="8448000" />
+      <workItem from="1477293641339" duration="10109000" />
     </task>
     <task id="LOCAL-00001" summary="Dit is de stylesheet">
       <created>1476264009939</created>
@@ -447,11 +447,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477303344402</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Class text aangemaakt">
+      <created>1477304883809</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1477304883809</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24929000" />
+    <option name="totallyTimeSpent" value="26590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -519,7 +526,8 @@
     <MESSAGE value="Borders af" />
     <MESSAGE value="Alles" />
     <MESSAGE value="Buttons veranderd enzo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Buttons veranderd enzo" />
+    <MESSAGE value="Class text aangemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class text aangemaakt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -620,24 +628,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CROPWEBSITE/files/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
+        <state relative-caret-position="266">
           <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CROPWEBSITE/files/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="136" column="44" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CROPWEBSITE/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="351">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CROPWEBSITE/files/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="91" column="23" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="23" />
           <folding />
         </state>
       </provider>

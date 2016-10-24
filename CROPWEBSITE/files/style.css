@@ -50,35 +50,35 @@
 	padding: 30px;
 	height: 100vh;
 	border-top: #a2ad30 ridge 10px;
-	border-bottom: #00abab groove  10px;
+	border-bottom: #bf5b1b ridge 10px;
 
 }
 
 #content2{
 	font: 14px Tahoma;
-	background-color: #00abab;
+	background-color: saddlebrown;
 	padding: 30px;
 	height: 100vh;
-	border-bottom: groove yellow 10px;
+	border-bottom: groove sandybrown 10px;
 	border-top: groove crimson 10px ;
 }
 
 #content3{
 	font: 14px Tahoma;
-	background-color: yellow;
+	background-color: sandybrown;
 	padding: 30px;
 	height: 100vh;
-	border-top: #00ffff groove 10px;
-    border-bottom: #36c500 ridge 10px;
+	border-top: #bf5b1b groove 10px;
+    border-bottom: #54381e groove 10px;
 }
 
 
 #content4{
 	font: 14px Tahoma;
-	background-color: green;
+	background-color: #54381e;
 	padding: 30px;
 	height: 100vh;
-	border-top: yellow ridge 10px;
+	border-top: sandybrown ridge 10px;
     border-bottom: darkblue groove 10px;
 }
 
@@ -89,7 +89,7 @@
 	background-image: url("images/footer.png");
 	background-size: cover;
 	height: 100px;
-    border-top: green ridge 10px;
+    border-top: #54381e ridge 10px;
 }
 
 a{
@@ -134,4 +134,10 @@ a{
     top:1px;
 }
 
-.Text{font-size: 50px; display:inline-block;}
+.Text{
+    font-size: 50px; display:inline-block;
+}
+
+.Text1 {
+    font-size: 18px;
+}
