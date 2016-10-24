@@ -17,18 +17,6 @@
                 <img class="Mars" src="files/images/mars food 01.png">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 	</div>
 
 	<div id="content2">
@@ -54,7 +42,7 @@
 			</tr>
 			<tr>
 				<td>Alicia</td>
-				<td>Aniss</td>
+				<td>Shane</td>
 				<td>Arno</td>
 				<td>Chelsea</td>
 			</tr>
@@ -75,7 +63,7 @@
 				<td>Jo&euml;l</td>
 				<td>Perry</td>
 				<td>Robbin</td>
-				<td>Shane</td>
+				<td>Aniss</td>
 			</tr>
 			<tr>
 				<td class="aboutDes">Programming</td>
