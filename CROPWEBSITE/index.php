@@ -8,8 +8,25 @@
 	
 	<div id="content1">
 		<br><br>  <center>  <a class="Text"> The Product </a> </center> <br><br>
-		<img src="files/images/mars food 01.png" width="300">
-        <br> <a class="Text1"> Our product is made for martians. </a>
+
+        <center><br> <a class="Text1">
+                Our product is made for martians.
+
+        </center>
+</a>
+                <img class="Mars" src="files/images/mars food 01.png">
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 	</div>
