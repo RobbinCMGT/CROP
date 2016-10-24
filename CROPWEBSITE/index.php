@@ -12,6 +12,9 @@
 	</div>
 
 	<div id="content2">
+        <br>
+        <br>
+
     Hoi
 	</div>
 

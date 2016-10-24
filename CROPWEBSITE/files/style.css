@@ -12,7 +12,8 @@
 }
 
 #nav{
-	background-color: white;
+	background-color: sandybrown;
+    border-bottom: darkred groove 10px;
 	width: 100%;
 	position: fixed;
 	height: 60px;
@@ -25,11 +26,17 @@
 	vertical-align: middle;
 	line-height: normal;
 	font: 24px Tahoma;
+
 }
+
+
 
 #nav li{
 	display: inline;
-
+    background-color: chocolate;
+    margin-left: 3px;
+    border: groove maroon;
+    padding: 3px;
 }
 
 #wrapper{
