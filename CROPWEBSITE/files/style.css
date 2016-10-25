@@ -3,6 +3,9 @@
 	padding: 0;
 }
 
+
+/*  NAVIGATIEMENU en INTRO AFBEELDING  */
+
 #header{
 	text-align: center;
 	height: 100vh;
@@ -28,13 +31,13 @@
 
 }
 
-
-
 #nav li{
 	display: inline;
     margin-left: 3px;
     padding: 3px;
 }
+
+/*  CENTREREN PAGINA  */
 
 #wrapper{
 	width: 100%;
@@ -42,6 +45,7 @@
 }
 
 
+/*  CONTENT BLOCK 1 - PRODUCT  */
 
 #content1{
 	font: 14px Tahoma;
@@ -52,23 +56,26 @@
 	border-bottom: #bf5b1b ridge 10px;
 
 }
-#content1 table {
+
+#content1 table{
 	width: 90%;
 	margin-left: auto ;
 	margin-right: auto;
-
 }
-#content1 td.Producttd1 {
-width: 39%;
- }
-#content1 td.Producttd2 {
-width: 61%;
+
+#content1 td.Producttd1{
+	width: 39%;
+}
+
+#content1 td.Producttd2{
+	width: 61%;
 }
 
 #productText{
 	width: 50%;
 }
 
+/*  CONTENT BLOCK 2 - HOW IT WORKS  */
 
 #content2{
 	font: 14px Tahoma;
@@ -79,6 +86,8 @@ width: 61%;
 	border-top: groove crimson 10px ;
 }
 
+/*  CONTENT BLOCK 3 - WHY  */
+
 #content3{
 	font: 14px Tahoma;
 	background-color: sandybrown;
@@ -88,6 +97,7 @@ width: 61%;
     border-bottom: #54381e groove 10px;
 }
 
+/*  CONTENT BLOCK 4 - ABOUT US  */
 
 #content4{
 	font: 14px Tahoma;
@@ -119,7 +129,7 @@ width: 61%;
 	font: 12px Tahoma;
 }
 
-
+/*  FOOTER  */
 
 #footer{
 	font: 20px Tahoma;
@@ -130,9 +140,13 @@ width: 61%;
     border-top: #54381e ridge 10px;
 }
 
+/*  LINKS EN NAVIGATIEMENU BUTTONS  */
+
 a{
 	text-decoration: none;
-}    .myButton {
+}
+
+.myButton {
      -moz-box-shadow:inset 0px 1px 0px 0px #a6827e;
      -webkit-box-shadow:inset 0px 1px 0px 0px #a6827e;
      box-shadow:inset 0px 1px 0px 0px #a6827e;
@@ -156,7 +170,7 @@ a{
      padding:6px 24px;
      text-decoration:none;
      text-shadow:0px 1px 0px #bd5ebd;
- }
+}
 
 .myButton:hover {
     background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #634b30), color-stop(1, #7d5d3b));
@@ -174,17 +188,25 @@ a{
     top:1px;
 }
 
+
+/*  TEKST EN LETTERTYPES  */
+
 .Text{
-    font-size: 50px; display:inline-block;
+    font-size: 50px;
+	display: inline-block;
 }
 
 .Text1 {
     font-size: 18px;
 }
+
 .Text2 {
     font-size: 18px;
     color: white;
 }
+
+/*  AFBEELDINGEN  */
+
 .Mars {
     width: 300px;
 

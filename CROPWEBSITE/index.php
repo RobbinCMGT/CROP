@@ -1,12 +1,9 @@
-
-
-
-<?php include("files/header.php"); ?>
+<?php include("files/header.php"); /*  Header in apart bestand  */?>
 <!-- Vanaf hier begint pagina -->
 <div id="wrapper">
 	
 	
-	<div id="content1">
+	<div id="content1"> <!-- PRODUCT sectie -->
 
 		<br><br>  <center>  <a class="Text"> The Product </a> </center> <br><br>
 
@@ -14,32 +11,31 @@
 			<tr>
 				<td class="Producttd1" > <img class="Mars" src="files/images/mars food 01.png"> </td>
 				<td class="Producttd2">
-						<br><br>
-						<div id="productText">
-							<a class="Text1">	Our product is made for martians. </a>
-						</div>
+					<br><br>
+					<div id="productText">
+						<a class="Text1">	Our product is made for martians. </a>
+					</div>
+				</td>
 			</tr>
-
-
 		</table>
 
 	</div>
 
-	<div id="content2">
+	<div id="content2"> <!-- HOW IT WORKS sectie -->
         <br><br> <center> <a class="Text"> How it works </a> </center>
 
 
 	</div>
 
-	<div id="content3">
+	<div id="content3"> <!-- WHY BUT IT sectie -->
         <br><br> <center> <a class="Text"> Why </a> </center>
 	</div>
 
-	<div id="content4">
+	<div id="content4"> <!-- ABOUT US sectie -->
         <br><br> <center> <a class="Text"> About us </a> </center>
 		<br><br>
 
-		<table>
+		<table> <!-- Table met fotos van alle teamgenoten -->
 			<tr>
 				<td><img src="files/images/about/Alicia.png"></td>
 				<td><img src="files/images/about/Shane.png"></td>
@@ -82,5 +78,5 @@
 
 
 
-</div> <!-- Wrapper -->
-<?php include("files/footer.php"); ?>
+</div> <!-- Einde Wrapper div -->
+<?php include("files/footer.php"); /*  Footer in apart bestand  */ ?>

@@ -1,6 +1,8 @@
 <!DOCTYPE HTML>
 <html>
 
+<!-- Javascript voor smooth scrolling menu -->
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script>
 	$(function() {
@@ -20,16 +22,15 @@
 </script>
 
 
+	<!-- Paginatitel, stylesheet linken -->
 	<head>
 		<title>CROP</title>
 		<link rel="stylesheet" type="text/css" href="files/style.css"/>
 	</head>
 	
-	<body>
+	<body> <!-- Body start hier, sluit in footer -->
 
-
-
-	<div id="header">
+	<div id="header"> <!-- Navigatiemenu -->
 		<div id="nav">
 			<div id="navText">
 				<ul>
