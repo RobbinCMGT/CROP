@@ -49,7 +49,7 @@
 
 #content1{
 	font: 14px Tahoma;
-	background-color: maroon;
+	background-image: url("images/mars123.jpg");
 	padding: 30px;
 	height: 100vh;
 	border-top: #a2ad30 ridge 10px;
@@ -97,7 +97,7 @@
 
 #content3{
 	font: 14px Tahoma;
-	background-color: sandybrown;
+    background-image: url("images/mars2.jpg");
 	padding: 30px;
 	height: 100vh;
 	border-top: #bf5b1b groove 10px;
