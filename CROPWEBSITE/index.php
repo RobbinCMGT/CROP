@@ -31,10 +31,20 @@
 	<div id="content2"> <!-- HOW IT WORKS sectie -->
         <br><br> <center> <a class="Text"> How it works </a> </center>
 
+		<div id="C2block">
+			CROP uses state of the art technology to make growing crops on a planet where nothing grows a hundred times easier.
+			Our system uses top notch sensors and actuators to automate your Mars-farming as much as possible.
+			<br><br>
+			CROP will keep track of the planted crops on things like age, nutrition and hydration.
+			This will be shown to the user on a LCD screen. Also, patches of land planted with specific crops will
+			be highlighted using LED-lights to indicate which crops are planted where.
+			<br><br>
+
+		</div>
 
 	</div>
 
-	<div id="content3"> <!-- WHY BUT IT sectie -->
+	<div id="content3"> <!-- WHY BUY IT sectie -->
         <br><br> <center> <a class="Text"> Why </a> </center>
 		<div id="BlockC3">
 		<td class="Producttd3">
@@ -52,7 +62,7 @@
 		</div>
 	</div>
 
-	<div id="content4"> <!-- ABOUT US sectie -->
+	<div id="content4"> <!-- ABORT US sectie -->
         <br><br> <center> <a class="Text"> About us </a> </center>
 		<br><br>
 
