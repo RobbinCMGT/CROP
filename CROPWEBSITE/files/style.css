@@ -54,7 +54,6 @@
 	height: 100vh;
 	border-top: #a2ad30 ridge 10px;
 	border-bottom: #bf5b1b ridge 10px;
-
 }
 
 #content1 table{
@@ -78,12 +77,20 @@
 /*  CONTENT BLOCK 2 - HOW IT WORKS  */
 
 #content2{
-	font: 14px Tahoma;
-	background-color: saddlebrown;
+	font: 16px Tahoma;
+	background-image: url(images/howitworks2.jpg);
+	background-size: cover;
 	padding: 30px;
 	height: 100vh;
 	border-bottom: groove sandybrown 10px;
 	border-top: groove crimson 10px ;
+}
+
+#C2block{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
 }
 
 /*  CONTENT BLOCK 3 - WHY  */
