@@ -83,7 +83,8 @@
 /*  CONTENT BLOCK 2 - HOW IT WORKS  */
 
 #content2{
-	font: 16px Tahoma;
+	font: 18px Tahoma;
+	color: white;
 	background-image: url(images/howitworks2.jpg);
 	background-size: cover;
 	padding: 30px;
@@ -119,6 +120,7 @@
 
 #content4{
 	font: 14px Tahoma;
+	color: white;
 	background-color: #54381e;
 	padding: 30px;
 	height: 100vh;
@@ -210,12 +212,16 @@ a{
 /*  TEKST EN LETTERTYPES  */
 
 .Text{
+	font: Tahoma;
     font-size: 50px;
 	display: inline-block;
+	color: white;
 }
 
 .Text1 {
+	font: Tahoma;
     font-size: 18px;
+	color: white;
 }
 
 .Text2 {
