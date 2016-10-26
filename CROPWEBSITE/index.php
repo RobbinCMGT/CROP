@@ -13,7 +13,14 @@
 				<td class="Producttd2">
 					<br><br>
 					<div id="productText">
-						<a class="Text1">	Our product is made for martians. </a>
+						<a class="Text1"> Our product is made for martians who want to maintain their crops perfectly.
+                            Our product makes sure you keep your crops healthy and it automatically waters your crops.
+                            CROP also tells you when to harvest your crops. CROP has a built-in led path to your crops
+                            so you don't have to remember where you exactly planted every crop.
+
+
+
+                        </a>
 					</div>
 				</td>
 			</tr>
