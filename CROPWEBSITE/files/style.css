@@ -68,12 +68,17 @@
 }
 
 #content1 td.Producttd2{
-	width: 61%;
+    width: 61%;
+}
+
+#content1 td.Producttd3{
+    width: 80%;
 }
 
 #productText{
 	width: 50%;
 }
+
 
 /*  CONTENT BLOCK 2 - HOW IT WORKS  */
 
@@ -96,7 +101,12 @@
 	border-top: #bf5b1b groove 10px;
     border-bottom: #54381e groove 10px;
 }
-
+#BlockC3{
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 /*  CONTENT BLOCK 4 - ABOUT US  */
 
 #content4{

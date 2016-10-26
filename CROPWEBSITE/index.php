@@ -36,6 +36,20 @@
 
 	<div id="content3"> <!-- WHY BUT IT sectie -->
         <br><br> <center> <a class="Text"> Why </a> </center>
+		<div id="BlockC3">
+		<td class="Producttd3">
+			<br><br>
+
+				<a class="Text1"> There are several reasons why our product is the best invention for martians yet: Our product is a very cheap
+					solution for perfecting your farming skills on mars. Farming is very important on Mars. There is no wild life or Liquid water on the surface, therefore
+					farming is the only way to survive on mars. Because or product is fairly simple we are able to sell it for cheap, but don't underestimate the handiness of
+					our product. CROP also doesn't require any hardware or electronics knowledge, the only thing you need to do is install it correctly.
+
+
+				</a>
+
+		</td>
+		</div>
 	</div>
 
 	<div id="content4"> <!-- ABOUT US sectie -->

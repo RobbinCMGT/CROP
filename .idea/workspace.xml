@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CROPWEBSITE/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+            <state relative-caret-position="465">
+              <caret line="45" column="86" selection-start-line="45" selection-start-column="86" selection-end-line="45" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -46,21 +46,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CROPWEBSITE/files/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CROPWEBSITE/files/footer.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CROPWEBSITE/files/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="107" column="14" selection-start-line="107" selection-start-column="14" selection-end-line="107" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -94,8 +94,8 @@
         <option value="$PROJECT_DIR$/CROP SITE/index.html" />
         <option value="$PROJECT_DIR$/CROPWEBSITE/files/header.php" />
         <option value="$PROJECT_DIR$/CROPWEBSITE/files/footer.php" />
-        <option value="$PROJECT_DIR$/CROPWEBSITE/index.php" />
         <option value="$PROJECT_DIR$/CROPWEBSITE/files/style.css" />
+        <option value="$PROJECT_DIR$/CROPWEBSITE/index.php" />
       </list>
     </option>
   </component>
@@ -107,8 +107,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="89" />
-    <option name="y" value="250" />
+    <option name="x" value="-54" />
+    <option name="y" value="11" />
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
@@ -318,7 +318,7 @@
       <workItem from="1477401097507" duration="57000" />
       <workItem from="1477401237321" duration="1862000" />
       <workItem from="1477465938822" duration="2508000" />
-      <workItem from="1477469931001" duration="2446000" />
+      <workItem from="1477469931001" duration="5625000" />
     </task>
     <task id="LOCAL-00001" summary="Dit is de stylesheet">
       <created>1476264009939</created>
@@ -397,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1477401661440</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Achtergrond afbeeldingen veranderd van de content blocks.&#10;tekst verbeterd van The Product.">
+      <created>1477475083066</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1477475083066</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -406,10 +413,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40031000" />
+    <option name="totallyTimeSpent" value="43210000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="89" y="250" width="1456" height="876" extended-state="0" />
+    <frame x="-54" y="11" width="1456" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1" sideWeight="0.49391305" order="0" side_tool="false" content_ui="combo" />
@@ -479,7 +486,8 @@
     <MESSAGE value="Achtergronden veranderd" />
     <MESSAGE value="Dingen veranderd&#10;" />
     <MESSAGE value="style.css: about sectie getweaked&#10;footer.php: CORP veranderd naar CROP ;)&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="style.css: about sectie getweaked&#10;footer.php: CORP veranderd naar CROP ;)&#10;" />
+    <MESSAGE value="Achtergrond afbeeldingen veranderd van de content blocks.&#10;tekst verbeterd van The Product." />
+    <option name="LAST_COMMIT_MESSAGE" value="Achtergrond afbeeldingen veranderd van de content blocks.&#10;tekst verbeterd van The Product." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -746,18 +754,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CROPWEBSITE/index.php">
+    <entry file="file://$PROJECT_DIR$/CROPWEBSITE/files/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        <state relative-caret-position="650">
+          <caret line="107" column="14" selection-start-line="107" selection-start-column="14" selection-end-line="107" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CROPWEBSITE/files/style.css">
+    <entry file="file://$PROJECT_DIR$/CROPWEBSITE/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        <state relative-caret-position="465">
+          <caret line="45" column="86" selection-start-line="45" selection-start-column="86" selection-end-line="45" selection-end-column="86" />
           <folding />
         </state>
       </provider>
